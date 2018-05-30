@@ -20,4 +20,4 @@ var taco = {
     }
 };
 
-module.exports = tacos;
+module.exports = taco;
